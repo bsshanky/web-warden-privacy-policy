@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/web-warden-privacy-policy/static/css/main.38553abb.css",
-    "main.js": "/web-warden-privacy-policy/static/js/main.02243693.js",
+    "main.js": "/web-warden-privacy-policy/static/js/main.0fca18c1.js",
     "static/js/453.155ae5ef.chunk.js": "/web-warden-privacy-policy/static/js/453.155ae5ef.chunk.js",
     "static/media/AppLogo.png": "/web-warden-privacy-policy/static/media/AppLogo.43bed8d93938113fa278.png",
     "index.html": "/web-warden-privacy-policy/index.html",
     "main.38553abb.css.map": "/web-warden-privacy-policy/static/css/main.38553abb.css.map",
-    "main.02243693.js.map": "/web-warden-privacy-policy/static/js/main.02243693.js.map",
+    "main.0fca18c1.js.map": "/web-warden-privacy-policy/static/js/main.0fca18c1.js.map",
     "453.155ae5ef.chunk.js.map": "/web-warden-privacy-policy/static/js/453.155ae5ef.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.38553abb.css",
-    "static/js/main.02243693.js"
+    "static/js/main.0fca18c1.js"
   ]
 }
